@@ -1,5 +1,6 @@
 
 <h3 align="center">Real Time Figma Clone</h3>
+
 <div align="center">
   <br />
     <a href="https://drive.google.com/file/d/1xIfESKQiYcqBY_9hplAaNCSpOEYkOvT5/view?usp=sharing" target="_blank">
@@ -21,7 +22,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-FigPro v2.0 is the latest iteration of our collaborative design tool, providing teams with a powerful platform for creating and editing designs together in real-time. With a focus on speed, simplicity, and flexibility, FigPro v2.0 is perfect for designing prototypes, wireframes, and user interfaces.
+FigPro is the latest iteration of our collaborative design tool, providing teams with a powerful platform for creating and editing designs together in real-time. With a focus on speed, simplicity, and flexibility, FigPro v2.0 is perfect for designing prototypes, wireframes, and user interfaces.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -44,7 +45,7 @@ FigPro v2.0 is the latest iteration of our collaborative design tool, providing 
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to start using FigPro v2.0:
+Follow these steps to start using FigPro:
 
 **Prerequisites**
 
@@ -73,6 +74,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to start using FigPro v2.0.
+Open [http://localhost:3000](http://localhost:3000) in your browser to start using FigPro.
 
 ```
