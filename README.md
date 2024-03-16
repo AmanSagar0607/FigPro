@@ -1,4 +1,3 @@
-
 <h3 align="center">Real Time Figma Clone</h3>
 
 <div align="center">
@@ -8,9 +7,8 @@
     </a>
   <br />
 
-
   <div>
-    A modern collaborative design tool built with React, TypeScript, Next.js, Liveblocks, Fabric.js, and Tailwind CSS.
+     A modern collaborative design tool built with React, TypeScript, Next.js, Liveblocks, Fabric.js, and Tailwind CSS.
     </div>
 </div>
 
@@ -23,7 +21,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-FigPro is the latest iteration of our collaborative design tool, providing teams with a powerful platform for creating and editing designs together in real-time. With a focus on speed, simplicity, and flexibility, FigPro v2.0 is perfect for designing prototypes, wireframes, and user interfaces.
+FigPro is the latest iteration of our collaborative design tool, providing teams with a powerful platform for creating and editing designs together in real-time. With a focus on speed, simplicity, and flexibility, FigPro is perfect for designing prototypes, wireframes, and user interfaces.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -42,7 +40,7 @@ FigPro is the latest iteration of our collaborative design tool, providing teams
 - **Interactive Canvas**: Fabric.js powers the interactive canvas, providing a wide range of drawing and editing tools for creating stunning designs.
 - **Liveblocks Integration**: Liveblocks enables seamless real-time collaboration features, including cursor chat, comments, and reactions.
 - **Responsive Design**: FigPro's interface is responsive, ensuring a seamless experience across different devices and screen sizes.
-- **Easy Deployment**: Built with Next.js, FigPro v2.0 offers easy deployment and scalability, making it suitable for projects of all sizes.
+- **Easy Deployment**: Built with Next.js, FigPro offers easy deployment and scalability, making it suitable for projects of all sizes.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -78,3 +76,4 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser to start using FigPro.
 
 ```
+
