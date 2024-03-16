@@ -1,23 +1,14 @@
+
+<h3 align="center">Real Time Figma Clone</h3>
 <div align="center">
   <br />
     <a href="https://drive.google.com/file/d/1xIfESKQiYcqBY_9hplAaNCSpOEYkOvT5/view?usp=sharing" target="_blank">
-      <img src="https://github.com/AmanSagar0607/FigPro/assets/151519281/e03dc22d-0f45-464b-9dc3-f01f07906bee" alt="Project Banner">
+      <img src="https://drive.google.com/uc?id=1xIfESKQiYcqBY_9hplAaNCSpOEYkOvT5" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-Liveblocks-black?style=for-the-badge&logoColor=white&logo=liveblocks&color=3A4F6A" alt="Liveblocks" />
-    <img src="https://img.shields.io/badge/-Fabric.js-black?style=for-the-badge&logoColor=white&logo=fabricdotjs&color=555555" alt="Fabric.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind CSS" />
-  </div>
-
-  <h3 align="center">FigPro v2.0</h3>
-
-   <div align="center">
-     A modern collaborative design tool built with React, TypeScript, Next.js, Liveblocks, Fabric.js, and Tailwind CSS.
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>
 
@@ -66,3 +57,22 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/AmanSagar0607/FigPro.git
 cd FigPro
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to start using FigPro v2.0.
+
+```
