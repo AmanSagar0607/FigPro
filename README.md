@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/IxqC6I0U64s" target="_blank">
-      <img src="[https://github.com/AmanSagar0607/FigPro/assets/151519281/e03dc22d-0f45-464b-9dc3-f01f07906bee](https://drive.google.com/file/d/1xIfESKQiYcqBY_9hplAaNCSpOEYkOvT5/view?usp=sharing)" alt="Project Banner">
+    <a href="https://drive.google.com/file/d/1xIfESKQiYcqBY_9hplAaNCSpOEYkOvT5/view?usp=sharing" target="_blank">
+      <img src="https://github.com/AmanSagar0607/FigPro/assets/151519281/e03dc22d-0f45-464b-9dc3-f01f07906bee" alt="Project Banner">
     </a>
   <br />
 
