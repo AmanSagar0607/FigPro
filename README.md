@@ -8,7 +8,7 @@
   <br />
 
   <div>
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+    A modern collaborative design tool built with React, TypeScript, Next.js, Liveblocks, Fabric.js, and Tailwind CSS.
     </div>
 </div>
 
